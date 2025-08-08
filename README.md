@@ -39,19 +39,5 @@
 - npm / Composer  
 - JSON & AJAX  
 
----
-
-## 📊 GitHub Stats
-![Pravin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-
----
-
-## 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 🌐 [Portfolio Website](https://yourwebsite.com)  
-- ✉️ **Email:** yourname@email.com  
-
----
 
 💬 *"Code is like humor. When you have to explain it, it’s bad."*  
