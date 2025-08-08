@@ -16,28 +16,10 @@
 
 ## 🛠 Tech Stack
 
-**Frontend:**
-- React.js ⚛️
-- Vue.js  
-- Livewire  
-- jQuery  
-- Bootstrap  
-- Tailwind CSS  
-
-**Backend:**
-- Laravel  
-- PHP  
-- RESTful APIs  
-
-**Database:**
-- MySQL  
-- PostgreSQL  
-
-**Tools & Others:**
-- Git & GitHub  
-- VS Code  
-- npm / Composer  
-- JSON & AJAX  
+**Frontend:** React.js ⚛️ | Vue.js | Livewire | jQuery | Bootstrap | Tailwind CSS  
+**Backend:** Laravel | PHP | RESTful APIs  
+**Database:** MySQL | PostgreSQL  
+**Tools:** Git & GitHub | VS Code | npm / Composer | JSON & AJAX  
 
 
 💬 *"Code is like humor. When you have to explain it, it’s bad."*  
